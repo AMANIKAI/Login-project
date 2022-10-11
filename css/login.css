@@ -1,0 +1,19 @@
+h2{
+    background-color: blueviolet;
+    padding: 30px 35px;
+    margin: -10 -50;
+    text-align: center;
+    border-style: solid;
+    border-radius: 10px 10px 0 0;
+}
+hr{
+    margin: 10px 50px;
+    border: 0;
+
+}
+div.container{
+    width: 300;
+    padding: 10px 50px 25px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
